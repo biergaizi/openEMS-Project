@@ -3,7 +3,7 @@
 	url = https://github.com/thliebig/CSXCAD.git
 [submodule "QCSXCAD"]
 	path = QCSXCAD
-	url = https://github.com/thliebig/QCSXCAD.git
+	url = https://github.com/biergaizi/QCSXCAD.git
 [submodule "AppCSXCAD"]
 	path = AppCSXCAD
 	url = https://github.com/thliebig/AppCSXCAD.git
