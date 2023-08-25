@@ -7,7 +7,7 @@ class Openems < Formula
   homepage "https://www.openems.de"
 
   head do
-    url "https://github.com/thliebig/openEMS-Project.git"
+    url "https://github.com/biergaizi/openEMS-Project.git"
   end
 
   depends_on "cmake" => :build
